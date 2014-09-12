@@ -1,0 +1,66 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 28.08.2014 03:31:13
+
+BeginCmp
+TimeStamp = /53FE8913;
+Reference = *DRDY1;
+ValeurCmp = INTERCONNECT;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FE886E;
+Reference = ENABLE1;
+ValeurCmp = INTERCONNECT;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FE8831;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FE8822;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FE8840;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FE8975;
+Reference = SCL1;
+ValeurCmp = INTERCONNECT;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FE890D;
+Reference = SDA1;
+ValeurCmp = INTERCONNECT;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FE8813;
+Reference = U1;
+ValeurCmp = TMP006;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FE8907;
+Reference = V+1;
+ValeurCmp = INTERCONNECT;
+IdModule  = ;
+EndCmp
+
+EndListe

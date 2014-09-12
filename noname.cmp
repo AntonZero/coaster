@@ -1,0 +1,24 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 30.08.2014 02:39:55
+
+BeginCmp
+TimeStamp = /53FE8813;
+Reference = U1;
+ValeurCmp = TMP006;
+IdModule  = tmp006;
+EndCmp
+
+BeginCmp
+TimeStamp = /5401151C;
+Reference = U2;
+ValeurCmp = INTERPAD_VIAS;
+IdModule  = Intercon_vias;
+EndCmp
+
+BeginCmp
+TimeStamp = /53FE966E;
+Reference = U3;
+ValeurCmp = WS2812;
+IdModule  = WS2812;
+EndCmp
+
+EndListe
